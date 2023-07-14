@@ -20,3 +20,7 @@
                 
 3- ML Medium Project (US Soldiers Race Prediction)
 *                 soldier_race_project.ipynb
+
+4- ML Medium Project (Clustering Analysis-Customer Segmentation)
+*                 Cluestering_Analysis_Customers_Segmentation_Project.ipynb
+*                 Dataset : Mall_Customers.csv
