@@ -17,4 +17,6 @@
 *                 prod_dimen.xls
 *                 prod_main_cat.xls
 *                 shipping_dimen.xls
-
+                
+3- ML Medium Project (US Soldiers Race Prediction)
+*                 soldier_race_project.ipynb
