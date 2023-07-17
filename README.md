@@ -24,3 +24,7 @@
 4- ML Medium Project (Clustering Analysis-Customer Segmentation)
 *                 Cluestering_Analysis_Customers_Segmentation_Project.ipynb
 *                 Dataset : Mall_Customers.csv
+                
+5- ML Medium Project (Fraud Detection)
+*                 Fraud_Detection_EDA_LR_RF_XGB_.ipynb
+*                 creditcard.csv
