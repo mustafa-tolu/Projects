@@ -28,3 +28,8 @@
 5- ML Medium Project (Fraud Detection)
 *                 Fraud_Detection_EDA_LR_RF_XGB_.ipynb
 *                 creditcard.csv
+
+
+6- Data Analysis Project (Google Bike Sharing)
+*                 [Dataset](https://www.kaggle.com/datasets/jaeyoungkum/google-data-analytics-capstone-cyclistic-data)
+*                 Data_Analysis_Project_(Google_Bike_Sharing).ipynb
