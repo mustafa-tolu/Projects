@@ -1,6 +1,6 @@
 # Projects
 
-!!! More information and projects will be added soon !!!
+!!! More information and projects will be added day by day !!!
 
 
 
@@ -33,3 +33,8 @@
 6- Data Analysis Project (Google Bike Sharing)
 *                 [Dataset](https://www.kaggle.com/datasets/jaeyoungkum/google-data-analytics-capstone-cyclistic-data)
 *                 Data_Analysis_Project_(Google_Bike_Sharing).ipynb
+
+
+7- CIFAR10 Image Segmentation CNN Project
+
+
