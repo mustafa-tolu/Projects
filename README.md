@@ -36,5 +36,9 @@
 
 
 7- CIFAR10 Image Segmentation CNN Project
+*               CIFAR10_Image_Segmentation_CNN.ipynb
 
 
+8- Time Dependent Visualization of Earthquakes
+*               time_dependent_visualization_of_earthquakes.ipynb
+*               Dataset : Turkey_Earthquakes_AFAD.csv
