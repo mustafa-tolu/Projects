@@ -31,7 +31,7 @@
 
 
 6- Data Analysis Project (Google Bike Sharing)
-*                 [Dataset](https://www.kaggle.com/datasets/jaeyoungkum/google-data-analytics-capstone-cyclistic-data)
+*                 (Dataset)[https://www.kaggle.com/datasets/jaeyoungkum/google-data-analytics-capstone-cyclistic-data]
 *                 Data_Analysis_Project_(Google_Bike_Sharing).ipynb
 
 
