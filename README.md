@@ -31,7 +31,7 @@
 
 
 6- Data Analysis Project (Google Bike Sharing)
-*                 [Dataset](https://www.kaggle.com/datasets/jaeyoungkum/google-data-analytics-capstone-cyclistic-data)
+*                 (Dataset)[https://www.kaggle.com/datasets/jaeyoungkum/google-data-analytics-capstone-cyclistic-data]
 *                 Data_Analysis_Project_(Google_Bike_Sharing).ipynb
 
 
@@ -42,7 +42,10 @@
 8- Time Dependent Visualization of Earthquakes
 *               time_dependent_visualization_of_earthquakes.ipynb
 *               Dataset : Turkey_Earthquakes_AFAD.csv
+<<<<<<< HEAD
 
 
 9- Car Price  Prediction
 *               car_price_prediction.ipynb
+=======
+>>>>>>> d6ecdbe6bdd7da38c9d45c98456c54ccac4af601
