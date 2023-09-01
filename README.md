@@ -42,10 +42,7 @@
 8- Time Dependent Visualization of Earthquakes
 *               time_dependent_visualization_of_earthquakes.ipynb
 *               Dataset : Turkey_Earthquakes_AFAD.csv
-<<<<<<< HEAD
 
 
 9- Car Price  Prediction
 *               car_price_prediction.ipynb
-=======
->>>>>>> d6ecdbe6bdd7da38c9d45c98456c54ccac4af601
